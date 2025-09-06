@@ -215,7 +215,7 @@ class Spirit_Of_Football_SDGs_CPT {
 			'show_ui'             => true,
 			'show_in_nav_menus'   => false,
 			'show_in_menu'        => true,
-			'show_in_admin_bar'   => true,
+			'show_in_admin_bar'   => false,
 			'has_archive'         => false,
 			'query_var'           => true,
 			'capability_type'     => 'post',
