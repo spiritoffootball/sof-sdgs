@@ -74,24 +74,6 @@ class Spirit_Of_Football_SDGs_CPT {
 	public $taxonomy_rest_base = 'sdg-type';
 
 	/**
-	 * Alternative Taxonomy name.
-	 *
-	 * @since 1.0.0
-	 * @access public
-	 * @var string
-	 */
-	public $taxonomy_alt_name = 'sdg-tag';
-
-	/**
-	 * Alternative Taxonomy REST base.
-	 *
-	 * @since 1.0.0
-	 * @access public
-	 * @var string
-	 */
-	public $taxonomy_alt_rest_base = 'sdg-tag';
-
-	/**
 	 * Constructor.
 	 *
 	 * @since 1.0.0
