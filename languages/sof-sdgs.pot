@@ -9,7 +9,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2025-09-09T09:49:52+00:00\n"
+"POT-Creation-Date: 2025-09-09T11:01:01+00:00\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "X-Generator: WP-CLI 2.12.0\n"
 "X-Domain: sof-sdgs\n"
@@ -79,168 +79,168 @@ msgstr ""
 msgid "Link"
 msgstr ""
 
-#: includes/class-sdgs-cpt.php:185
-#: includes/class-sdgs-cpt.php:196
+#: includes/class-sdgs-cpt.php:167
+#: includes/class-sdgs-cpt.php:178
 msgid "SDGs"
 msgstr ""
 
-#: includes/class-sdgs-cpt.php:186
+#: includes/class-sdgs-cpt.php:168
 msgid "SDG"
 msgstr ""
 
-#: includes/class-sdgs-cpt.php:187
+#: includes/class-sdgs-cpt.php:169
 msgid "Add New"
 msgstr ""
 
-#: includes/class-sdgs-cpt.php:188
+#: includes/class-sdgs-cpt.php:170
 msgid "Add New SDG"
 msgstr ""
 
-#: includes/class-sdgs-cpt.php:189
+#: includes/class-sdgs-cpt.php:171
 msgid "Edit SDG"
 msgstr ""
 
-#: includes/class-sdgs-cpt.php:190
+#: includes/class-sdgs-cpt.php:172
 msgid "New SDG"
 msgstr ""
 
-#: includes/class-sdgs-cpt.php:191
+#: includes/class-sdgs-cpt.php:173
 msgid "All SDGs"
 msgstr ""
 
-#: includes/class-sdgs-cpt.php:192
+#: includes/class-sdgs-cpt.php:174
 msgid "View SDG"
 msgstr ""
 
-#: includes/class-sdgs-cpt.php:193
+#: includes/class-sdgs-cpt.php:175
 msgid "Search SDGs"
 msgstr ""
 
-#: includes/class-sdgs-cpt.php:194
+#: includes/class-sdgs-cpt.php:176
 msgid "No matching SDG found"
 msgstr ""
 
-#: includes/class-sdgs-cpt.php:195
+#: includes/class-sdgs-cpt.php:177
 msgid "No SDGs found in Trash"
 msgstr ""
 
-#: includes/class-sdgs-cpt.php:206
+#: includes/class-sdgs-cpt.php:188
 msgid "Spirit of Football SDGs"
 msgstr ""
 
 #. translators: %s: The permalink.
-#: includes/class-sdgs-cpt.php:279
+#: includes/class-sdgs-cpt.php:261
 #, php-format
 msgid "SDG updated. <a href=\"%s\">View SDG</a>"
 msgstr ""
 
-#: includes/class-sdgs-cpt.php:284
+#: includes/class-sdgs-cpt.php:266
 msgid "Custom field updated."
 msgstr ""
 
-#: includes/class-sdgs-cpt.php:285
+#: includes/class-sdgs-cpt.php:267
 msgid "Custom field deleted."
 msgstr ""
 
-#: includes/class-sdgs-cpt.php:286
+#: includes/class-sdgs-cpt.php:268
 msgid "SDG updated."
 msgstr ""
 
 #. translators: %s: The date and time of the revision.
-#: includes/class-sdgs-cpt.php:295
+#: includes/class-sdgs-cpt.php:277
 #, php-format
 msgid "SDG restored to revision from %s"
 msgstr ""
 
 #. translators: %s: The permalink.
-#: includes/class-sdgs-cpt.php:306
+#: includes/class-sdgs-cpt.php:288
 #, php-format
 msgid "SDG published. <a href=\"%s\">View SDG</a>"
 msgstr ""
 
-#: includes/class-sdgs-cpt.php:311
+#: includes/class-sdgs-cpt.php:293
 msgid "SDG saved."
 msgstr ""
 
 #. translators: %s: The permalink.
-#: includes/class-sdgs-cpt.php:316
+#: includes/class-sdgs-cpt.php:298
 #, php-format
 msgid "SDG submitted. <a target=\"_blank\" href=\"%s\">Preview SDG</a>"
 msgstr ""
 
 #. translators: 1: The date, 2: The permalink.
-#: includes/class-sdgs-cpt.php:323
+#: includes/class-sdgs-cpt.php:305
 #, php-format
 msgid "SDG scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s\">Preview SDG</a>"
 msgstr ""
 
 #. translators: Publish box date format - see https://php.net/date
-#: includes/class-sdgs-cpt.php:325
+#: includes/class-sdgs-cpt.php:307
 msgid "M j, Y @ G:i"
 msgstr ""
 
 #. translators: %s: The permalink.
-#: includes/class-sdgs-cpt.php:332
+#: includes/class-sdgs-cpt.php:314
 #, php-format
 msgid "SDG draft updated. <a target=\"_blank\" href=\"%s\">Preview SDG</a>"
 msgstr ""
 
-#: includes/class-sdgs-cpt.php:359
+#: includes/class-sdgs-cpt.php:341
 msgid "Add an identifying name for the SDG"
 msgstr ""
 
-#: includes/class-sdgs-cpt.php:389
+#: includes/class-sdgs-cpt.php:371
 msgctxt "taxonomy general name"
 msgid "SDG Types"
 msgstr ""
 
-#: includes/class-sdgs-cpt.php:390
+#: includes/class-sdgs-cpt.php:372
 msgctxt "taxonomy singular name"
 msgid "SDG Type"
 msgstr ""
 
-#: includes/class-sdgs-cpt.php:391
+#: includes/class-sdgs-cpt.php:373
 msgid "Search SDG Types"
 msgstr ""
 
-#: includes/class-sdgs-cpt.php:392
+#: includes/class-sdgs-cpt.php:374
 msgid "All SDG Types"
 msgstr ""
 
-#: includes/class-sdgs-cpt.php:393
+#: includes/class-sdgs-cpt.php:375
 msgid "Parent SDG Type"
 msgstr ""
 
-#: includes/class-sdgs-cpt.php:394
+#: includes/class-sdgs-cpt.php:376
 msgid "Parent SDG Type:"
 msgstr ""
 
-#: includes/class-sdgs-cpt.php:395
+#: includes/class-sdgs-cpt.php:377
 msgid "Edit SDG Type"
 msgstr ""
 
-#: includes/class-sdgs-cpt.php:396
+#: includes/class-sdgs-cpt.php:378
 msgid "Update SDG Type"
 msgstr ""
 
-#: includes/class-sdgs-cpt.php:397
+#: includes/class-sdgs-cpt.php:379
 msgid "Add New SDG Type"
 msgstr ""
 
-#: includes/class-sdgs-cpt.php:398
+#: includes/class-sdgs-cpt.php:380
 msgid "New SDG Type Name"
 msgstr ""
 
-#: includes/class-sdgs-cpt.php:399
+#: includes/class-sdgs-cpt.php:381
 msgid "SDG Types"
 msgstr ""
 
-#: includes/class-sdgs-cpt.php:400
+#: includes/class-sdgs-cpt.php:382
 msgid "No SDG Types found"
 msgstr ""
 
 #. translators: %s: The plural name of the taxonomy terms.
-#: includes/class-sdgs-cpt.php:472
+#: includes/class-sdgs-cpt.php:454
 #, php-format
 msgid "Show All %s"
 msgstr ""
